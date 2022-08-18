@@ -1,6 +1,11 @@
 # OSS-lect
 2022학년도 2학기 오픈소스소프트웨어(OSS) 수업
 
+## 수업 공유를 위한 시트
+- [수요일 오전반](https://docs.google.com/spreadsheets/d/1Ev2qldkWk9Ck9mifSDjd6PUdBsmqQ09GwcRYNBimAiU/edit?usp=sharing)
+- [수요일 오후반](https://docs.google.com/spreadsheets/d/1Ev2qldkWk9Ck9mifSDjd6PUdBsmqQ09GwcRYNBimAiU/edit?usp=sharing)
+- [월요일 오후반](https://docs.google.com/spreadsheets/d/1Ev2qldkWk9Ck9mifSDjd6PUdBsmqQ09GwcRYNBimAiU/edit?usp=sharing)
+
 ### :gift_heart: 수업 일정
 | 일자 | 학습 | 자료 |
 | ---- | ---- | ---- |
