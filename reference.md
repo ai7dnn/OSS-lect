@@ -14,3 +14,12 @@
   - [Git](https://github.com/git/git)
 - 인공지능 라이브러리
   - [tensorflow](https://github.com/tensorflow/tensorflow)
+
+## 파이썬 학습 참조 사이트
+- 파이썬 book 
+  - [파이썬으로 배우는 누구나 코딩, 강환수 저](https://www.pythoncheatsheet.org)
+  - [으뜸 파이썬, 박동규수 저]([https://www.pythoncheatsheet.org](https://github.com/dongupak/Prime-Python))
+- 칫시트
+  - [파이썬 칫시트](https://www.pythoncheatsheet.org)
+- 영문 학습
+  - [realpython](https://realpython.com)
