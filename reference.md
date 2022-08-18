@@ -18,7 +18,7 @@
 ## 파이썬 학습 참조 사이트
 - 파이썬 book 
   - [파이썬으로 배우는 누구나 코딩, 강환수 저](https://www.pythoncheatsheet.org)
-  - [으뜸 파이썬, 박동규수 저]([https://www.pythoncheatsheet.org](https://github.com/dongupak/Prime-Python))
+  - [으뜸 파이썬, 박동규 저](https://github.com/dongupak/Prime-Python)
 - 칫시트
   - [파이썬 칫시트](https://www.pythoncheatsheet.org)
 - 영문 학습
