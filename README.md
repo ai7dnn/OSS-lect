@@ -8,7 +8,7 @@
 - [깃](https://git-scm.com)
 - [Source Tree](https://sourcetreeapp.com)
 - [파이참](https://jetbrains.com)
-- [vscode](https://visualstudiocode.com)
+- [vscode](https://code.visualstudio.com)
 
 ## 깃과 깃허브를 사랑하기 위한 유튜브 영상
 - [드림코드 50분](https://www.youtube.com/watch?v=Z9dvM7qgN9s), [강좌자료](https://www.yalco.kr/lectures/git-github/)
