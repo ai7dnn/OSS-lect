@@ -3,7 +3,7 @@
 
 ## 깃과 깃허브를 사랑하기 위한 유튜브 영상
 - [드림코드 50분](https://www.youtube.com/watch?v=Z9dvM7qgN9s)
-- [얄팍한 코딩사전 2시간10분](https://www.youtube.com/watch?v=1I3hMwQU6GU)
+- [얄팍한 코딩사전 2시간20분](https://www.youtube.com/watch?v=1I3hMwQU6GU)
 
 ## 수업 공유를 위한 시트
 - [수요일 오전반](https://docs.google.com/spreadsheets/d/1Ev2qldkWk9Ck9mifSDjd6PUdBsmqQ09GwcRYNBimAiU/edit?usp=sharing)
