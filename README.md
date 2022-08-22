@@ -6,9 +6,13 @@
 
 ## 관련 SW 설치 및 활용
 - [깃](https://git-scm.com)
+  - [깃설치](https://www.youtube.com/watch?v=JKT9laOAPIs)  
 - [Source Tree](https://sourcetreeapp.com)
+  - [Source Tree 설치](https://www.youtube.com/watch?v=9aHCdbFFTXc&list=PLuHgQVnccGMCejd1l8C8oyZSYQDtkMRAg&index=3)  
 - [파이참](https://jetbrains.com)
+  - [파이참설치](https://www.youtube.com/watch?v=IQ7p1Oq8BmE)  
 - [vscode](https://code.visualstudio.com)
+  - [vscode 설치](https://www.youtube.com/watch?v=ltvaJ6vr19M)  
 
 ## 깃과 깃허브를 사랑하기 위한 유튜브 영상
 - [드림코드 50분](https://www.youtube.com/watch?v=Z9dvM7qgN9s), [강좌자료](https://www.yalco.kr/lectures/git-github/)
