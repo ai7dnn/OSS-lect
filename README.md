@@ -2,7 +2,7 @@
 2022학년도 2학기 오픈소스소프트웨어(OSS) 수업
 
 ## 깃과 깃허브를 사랑하기 위한 유튜브 영상
-- [드림코드 50분](https://www.youtube.com/watch?v=Z9dvM7qgN9s)
+- [드림코드 50분](https://www.youtube.com/watch?v=Z9dvM7qgN9s), [강좌자료](https://www.yalco.kr/lectures/git-github/)
 - [얄팍한 코딩사전 2시간20분](https://www.youtube.com/watch?v=1I3hMwQU6GU)
 
 ## 수업 공유를 위한 시트
