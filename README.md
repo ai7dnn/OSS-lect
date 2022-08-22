@@ -1,6 +1,15 @@
 # OSS-lect
 2022학년도 2학기 오픈소스소프트웨어(OSS) 수업
 
+## 수업 준비
+- [깃허브](https://github.com) 계정과 암호, PAT 저장
+
+## 관련 SW 설치 및 활용
+- [깃](https://git-scm.com)
+- [Source Tree](https://sourcetreeapp.com)
+- [파이참](https://jetbrains.com)
+- [vscode](https://visualstudiocode.com)
+
 ## 깃과 깃허브를 사랑하기 위한 유튜브 영상
 - [드림코드 50분](https://www.youtube.com/watch?v=Z9dvM7qgN9s), [강좌자료](https://www.yalco.kr/lectures/git-github/)
 - [얄팍한 코딩사전 2시간20분](https://www.youtube.com/watch?v=1I3hMwQU6GU)
