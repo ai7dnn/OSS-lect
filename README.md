@@ -3,6 +3,9 @@
 
 ## 수업 준비
 - [깃허브](https://github.com) 계정과 암호, PAT 저장
+- 다음 폴더 구조에서 실습 수행  
+![image](https://user-images.githubusercontent.com/70050528/186046714-b56f3217-9779-4a17-b15c-167dd6389ac5.png)
+
 
 ## 관련 SW 설치 및 활용
 - [깃](https://git-scm.com)
