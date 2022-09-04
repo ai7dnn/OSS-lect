@@ -18,8 +18,10 @@
   - [vscode 설치 동영상](https://www.youtube.com/watch?v=ltvaJ6vr19M)  
 
 ## 깃과 깃허브를 사랑하기 위한 유튜브 영상
-- [드림코드 50분](https://www.youtube.com/watch?v=Z9dvM7qgN9s), [강좌자료](https://www.yalco.kr/lectures/git-github/)
-- [얄팍한 코딩사전 2시간20분](https://www.youtube.com/watch?v=1I3hMwQU6GU)
+- [드림코딩 깃과 깃허브 기초 6분](https://www.youtube.com/watch?v=lPrxhA4PLoA)
+- [드림코딩 깃과 깃허브 이해 50분](https://www.youtube.com/watch?v=Z9dvM7qgN9s) 
+- [드림코딩 Vim 이해 25분](https://www.youtube.com/watch?v=cY0JxzENBJg) 
+- [얄팍한 코딩사전 2시간20분](https://www.youtube.com/watch?v=1I3hMwQU6GU), [강좌자료](https://www.yalco.kr/lectures/git-github/)
 
 ## 수업 공유를 위한 시트
 - [수요일 오전반(A)](https://docs.google.com/spreadsheets/d/1Ev2qldkWk9Ck9mifSDjd6PUdBsmqQ09GwcRYNBimAiU/edit?usp=sharing)
