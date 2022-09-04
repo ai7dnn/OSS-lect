@@ -1,11 +1,15 @@
 # OSS-lect
 2022학년도 2학기 오픈소스소프트웨어(OSS) 수업
 
+## 수업 공유를 위한 시트
+- [수요일 오전반(A)](https://docs.google.com/spreadsheets/d/1Ev2qldkWk9Ck9mifSDjd6PUdBsmqQ09GwcRYNBimAiU/edit?usp=sharing)
+- [수요일 오후반(B)](https://docs.google.com/spreadsheets/d/1XRHJLVHNvmBizi7b9qTrTE_BI2of6pDotHv_g_3GVv0/edit?usp=sharing)
+- [월요일 오후반(C)](https://docs.google.com/spreadsheets/d/1dVVLzMvsYvR8A1adzyzoyq8N9XTqmu-KQ3TCkBtKrbE/edit?usp=sharing)
+
 ## 수업 준비
 - [깃허브](https://github.com) 계정과 암호, PAT 저장
 - 다음 폴더 구조에서 실습 수행  
 ![image](https://user-images.githubusercontent.com/70050528/186046714-b56f3217-9779-4a17-b15c-167dd6389ac5.png)
-
 
 ## 관련 SW 설치 및 활용
 - [깃](https://git-scm.com)
@@ -21,12 +25,8 @@
 - [드림코딩 깃과 깃허브 기초 6분](https://www.youtube.com/watch?v=lPrxhA4PLoA)
 - [드림코딩 깃과 깃허브 이해 50분](https://www.youtube.com/watch?v=Z9dvM7qgN9s) 
 - [드림코딩 Vim 이해 25분](https://www.youtube.com/watch?v=cY0JxzENBJg) 
+- [드림코딩 리눅스/유닉스 쉘 명령어 기초 30분](https://www.youtube.com/watch?v=EL6AQl-e3AQ)
 - [얄팍한 코딩사전 2시간20분](https://www.youtube.com/watch?v=1I3hMwQU6GU), [강좌자료](https://www.yalco.kr/lectures/git-github/)
-
-## 수업 공유를 위한 시트
-- [수요일 오전반(A)](https://docs.google.com/spreadsheets/d/1Ev2qldkWk9Ck9mifSDjd6PUdBsmqQ09GwcRYNBimAiU/edit?usp=sharing)
-- [수요일 오후반(B)](https://docs.google.com/spreadsheets/d/1XRHJLVHNvmBizi7b9qTrTE_BI2of6pDotHv_g_3GVv0/edit?usp=sharing)
-- [월요일 오후반(C)](https://docs.google.com/spreadsheets/d/1dVVLzMvsYvR8A1adzyzoyq8N9XTqmu-KQ3TCkBtKrbE/edit?usp=sharing)
 
 ### :gift_heart: 수업 일정
 | 일자 | 학습 | 자료 |
