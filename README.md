@@ -23,8 +23,8 @@
 
 ## 수업 공유를 위한 시트
 - [수요일 오전반(A)](https://docs.google.com/spreadsheets/d/1Ev2qldkWk9Ck9mifSDjd6PUdBsmqQ09GwcRYNBimAiU/edit?usp=sharing{:target="_blank"})
-- [수요일 오후반(B)](https://docs.google.com/spreadsheets/d/1XRHJLVHNvmBizi7b9qTrTE_BI2of6pDotHv_g_3GVv0/edit?usp=sharing){: target="_blank"}
-- [월요일 오후반(C)](https://docs.google.com/spreadsheets/d/1dVVLzMvsYvR8A1adzyzoyq8N9XTqmu-KQ3TCkBtKrbE/edit?usp=sharing){: target="_blank"}
+- [수요일 오후반(B)](https://docs.google.com/spreadsheets/d/1XRHJLVHNvmBizi7b9qTrTE_BI2of6pDotHv_g_3GVv0/edit?usp=sharing) {: target="_blank"}
+- [월요일 오후반(C)](https://docs.google.com/spreadsheets/d/1dVVLzMvsYvR8A1adzyzoyq8N9XTqmu-KQ3TCkBtKrbE/edit?usp=sharing) {: target="_blank"}
 
 ### :gift_heart: 수업 일정
 | 일자 | 학습 | 자료 |
