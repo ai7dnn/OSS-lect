@@ -6,6 +6,19 @@
 - [수요일 오후반(B)](https://docs.google.com/spreadsheets/d/1XRHJLVHNvmBizi7b9qTrTE_BI2of6pDotHv_g_3GVv0/edit?usp=sharing)
 - [월요일 오후반(C)](https://docs.google.com/spreadsheets/d/1dVVLzMvsYvR8A1adzyzoyq8N9XTqmu-KQ3TCkBtKrbE/edit?usp=sharing)
 
+
+## 깃과 깃허브를 사랑하기 위한 유튜브 영상
+- [드림코딩 깃과 깃허브 기초 6분](https://www.youtube.com/watch?v=lPrxhA4PLoA)
+- [드림코딩 깃과 깃허브 이해 50분](https://www.youtube.com/watch?v=Z9dvM7qgN9s) 
+- [드림코딩 Vim 이해 25분](https://www.youtube.com/watch?v=cY0JxzENBJg) 
+- [드림코딩 리눅스/유닉스 쉘 명령어 기초 30분](https://www.youtube.com/watch?v=EL6AQl-e3AQ)
+- [얄팍한 코딩사전 2시간20분](https://www.youtube.com/watch?v=1I3hMwQU6GU), [강좌자료](https://www.yalco.kr/lectures/git-github/)
+
+## 깃과 깃허브를 사랑하기 위한 참조 사이트
+# 전체
+- [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
+
+
 ## 수업 설문 
 - 인공지능소프트웨어과 주관 반 수강생(수요일 오전(A), 오후(B))
   - [교과목 학습효과 분석](https://forms.office.com/r/sBYCa47wf0)  
@@ -51,12 +64,6 @@
 - [vscode](https://code.visualstudio.com)
   - [vscode 설치 동영상](https://www.youtube.com/watch?v=ltvaJ6vr19M)  
 
-## 깃과 깃허브를 사랑하기 위한 유튜브 영상
-- [드림코딩 깃과 깃허브 기초 6분](https://www.youtube.com/watch?v=lPrxhA4PLoA)
-- [드림코딩 깃과 깃허브 이해 50분](https://www.youtube.com/watch?v=Z9dvM7qgN9s) 
-- [드림코딩 Vim 이해 25분](https://www.youtube.com/watch?v=cY0JxzENBJg) 
-- [드림코딩 리눅스/유닉스 쉘 명령어 기초 30분](https://www.youtube.com/watch?v=EL6AQl-e3AQ)
-- [얄팍한 코딩사전 2시간20분](https://www.youtube.com/watch?v=1I3hMwQU6GU), [강좌자료](https://www.yalco.kr/lectures/git-github/)
 
 ## 깃과 깃허브
 - [깃허브의 랭킹 보기](https://gitstar-ranking.com)
