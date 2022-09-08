@@ -12,10 +12,11 @@
 - [드림코딩 깃과 깃허브 이해 50분](https://www.youtube.com/watch?v=Z9dvM7qgN9s) 
 - [드림코딩 Vim 이해 25분](https://www.youtube.com/watch?v=cY0JxzENBJg) 
 - [드림코딩 리눅스/유닉스 쉘 명령어 기초 30분](https://www.youtube.com/watch?v=EL6AQl-e3AQ)
-- [얄팍한 코딩사전 2시간20분](https://www.youtube.com/watch?v=1I3hMwQU6GU), [강좌자료](https://www.yalco.kr/lectures/git-github/)
+- [얄팍한 코딩사전 2시간20분](https://www.youtube.com/watch?v=1I3hMwQU6GU), [강좌자료](https://www.yalco.kr/lectures/git-github/) 
 
-## 깃과 깃허브를 사랑하기 위한 참조 사이트
-# 전체
+
+## 깃과 깃허브를 사랑하기 위한 참조 사이트 
+### 전체
 - [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
 
 
