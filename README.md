@@ -16,8 +16,10 @@
 
 
 ## 깃과 깃허브를 사랑하기 위한 참조 사이트 
+
 ### 전체
 - [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
+- [간편 Git](https://mylko72.gitbooks.io/git/content)
 
 
 ## 수업 설문 
