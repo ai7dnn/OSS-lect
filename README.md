@@ -13,6 +13,7 @@
 - [드림코딩 Vim 이해 25분](https://www.youtube.com/watch?v=cY0JxzENBJg) 
 - [드림코딩 리눅스/유닉스 쉘 명령어 기초 30분](https://www.youtube.com/watch?v=EL6AQl-e3AQ)
 - [얄팍한 코딩사전 2시간20분](https://www.youtube.com/watch?v=1I3hMwQU6GU), [강좌자료](https://www.yalco.kr/lectures/git-github/) 
+- [오픈소스 소프트웨어 실습 11. Git commands 2, HGU SW 중심대, 한동대 SW중심대학 사업단](https://www.youtube.com/watch?v=eITEQ196Rc4)
 
 
 ## 깃과 깃허브를 사랑하기 위한 참조 사이트 
