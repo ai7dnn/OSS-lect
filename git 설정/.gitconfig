@@ -1,0 +1,22 @@
+[init]
+	defaultBranch = main
+
+[core]
+	longpaths = true
+	autocrlf = true
+	safecrlf = false
+	lg1 = log --oneline
+  
+[alias]
+	last = log -1
+	st = status
+	lg = log
+	lgg = log --graph
+	lg1 = log --oneline
+	lgg1 = log --graph --oneline
+	sts = status -s
+	sh = show
+	lgg1a = logg1 --all
+
+[color]
+	ui = auto
