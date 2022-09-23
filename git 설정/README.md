@@ -17,6 +17,7 @@ $ git config --global -list
 ```
 
 #### 축약 별칭 명령어
+- $ git config --global alias.<단축 명령어> <실제 명령어>
 ```bash
 $ git config --global alias.co checkout
 $ git config --global alias.br branch
