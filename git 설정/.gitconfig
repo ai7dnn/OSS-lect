@@ -5,7 +5,6 @@
 	longpaths = true
 	autocrlf = true
 	safecrlf = false
-	lg1 = log --oneline
   
 [alias]
 	last = log -1
