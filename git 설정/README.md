@@ -17,7 +17,7 @@ $ git config --global -list
 ```
 
 #### 축약 별칭 명령어
-- $ git config --global alias.<단축 명령어> <실제 명령어>
+- $ git config --global alias.<단축_명령어> <실제_명령어>
 ```bash
 $ git config --global alias.co checkout
 $ git config --global alias.br branch
@@ -39,3 +39,7 @@ $ git config --global core.autocrlf input #mac
 $ git config --global core.safecrlf false
 ```
 
+#### 설정 취소
+```bash
+$ git config --global --unset <이름>
+```
