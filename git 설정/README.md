@@ -6,14 +6,9 @@ $ git config --global user.name "User name"
 $ git config --global user.email "himanshudubey481@gmail.com"
 ```
 
-#### 사용자 설정
+#### 편집기 설정
 ```bash
 $ git config --global core.editor 'code --wait'
-```
-
-#### 설정 보기
-```bash
-$ git config --global -list
 ```
 
 #### 축약 별칭 명령어
@@ -43,3 +38,9 @@ $ git config --global core.safecrlf false
 ```bash
 $ git config --global --unset <이름>
 ```
+
+#### 설정 보기
+```bash
+$ git config --global -list
+```
+
