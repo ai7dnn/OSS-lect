@@ -24,6 +24,11 @@ $ git config --global alias.lg log
 $ git config --global alias.lg1 'log --oneline'
 $ git config --global alias.lgg 'log --graph'
 $ git config --global alias.lgg1 'log --graph --oneline '
+$ git config --global alias.lga log --all
+$ git config --global alias.lg1a 'log --oneline --all'
+$ git config --global alias.lgga 'log --graph --all'
+$ git config --global alias.lgg1a 'log --graph --oneline --all'
+
 ```
 
 #### CR(Carriage-Return)과 LF(Line Feed) 문자
