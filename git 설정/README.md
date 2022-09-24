@@ -6,6 +6,45 @@ $ git config --global core.editor 'code --wait'
 $ code ~/.gitconfig
 ```
 
+```shell
+[init]
+	defaultBranch = main
+	
+[user]
+	name = ai7dnn
+	email = ai7dnn@gmail.com
+
+[core]
+	longpaths = true
+	autocrlf = true
+	safecrlf = false
+	editor = code --wait
+  
+[alias]
+	last = log -1
+	cf = config
+	cfg = config --global
+	ci = commit
+	co = checkout
+	br = branch
+	st = status
+	sts = status -s
+	sh = show
+	sw = switch
+
+	lg = log
+	lg1 = log --oneline
+	lgg = log --graph
+	lgg1 = log --graph --oneline
+	lga = log --all
+	lg1a = log --oneline --all
+	lgga = log --graph --all
+	lgg1a = lgg1 --all
+
+[color]
+	ui = auto
+```
+
 ## Git bash에서 설정하는 방법
 
 #### 사용자 설정
