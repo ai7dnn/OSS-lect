@@ -1,6 +1,6 @@
 ## Git 설정 파일을 직접 수정하는 방법
 
-#### 다음 파일을 편집해서 샘플파일 내용을 복사 후 저장, 다시 git bash 실행
+#### 다음 파일을 편집해서 샘플파일 내용을 복사 후 user.name와 user.email만 자신의 이름으로 저장, 다시 git bash 실행
 ```
 $ git config --global core.editor 'code --wait'
 $ code ~/.gitconfig
