@@ -1,12 +1,6 @@
 # OSS-lect
 2022학년도 2학기 오픈소스소프트웨어(OSS) 수업
 
-## 수업 공유를 위한 시트
-- [수요일 오전반(A)](https://docs.google.com/spreadsheets/d/1Ev2qldkWk9Ck9mifSDjd6PUdBsmqQ09GwcRYNBimAiU/edit?usp=sharing)
-- [수요일 오후반(B)](https://docs.google.com/spreadsheets/d/1XRHJLVHNvmBizi7b9qTrTE_BI2of6pDotHv_g_3GVv0/edit?usp=sharing)
-- [월요일 오후반(C)](https://docs.google.com/spreadsheets/d/1dVVLzMvsYvR8A1adzyzoyq8N9XTqmu-KQ3TCkBtKrbE/edit?usp=sharing)
-
-
 ## 깃과 깃허브를 사랑하기 위한 유튜브 영상
 - [드림코딩 깃과 깃허브 기초 6분](https://www.youtube.com/watch?v=lPrxhA4PLoA)
 - [드림코딩 깃과 깃허브 이해 50분](https://www.youtube.com/watch?v=Z9dvM7qgN9s) 
