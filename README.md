@@ -17,15 +17,6 @@
 - [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
 - [간편 Git](https://mylko72.gitbooks.io/git/content)
 
-
-## 수업 설문 
-- 인공지능소프트웨어과 주관 반 수강생(수요일 오전(A), 오후(B))
-  - [교과목 학습효과 분석](https://forms.office.com/r/sBYCa47wf0)  
-  - [플립러닝 학습효과 분석](https://forms.office.com/r/dZ0Hz3EaEt)
-
-- 빅데이터경영과 주관 반 수강생(월요일 오후(C))
-  - [교과목 학습효과 분석](https://forms.office.com/r/sBYCa47wf0)  
-
 ## 교재  
 - Git 교과서
   - [인터넷 사이트](https://git.jiny.dev)  
