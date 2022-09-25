@@ -52,6 +52,7 @@
 - 인공지능 라이브러리
   - [tensorflow](https://github.com/tensorflow/tensorflow)
   - [pytorch](https://github.com/pytorch/pytorch)
+  - [scikit-learn](https://github.com/scikit-learn/scikit-learn)
 - 웹프로그래밍 프레임워크, 라이브러리
   - [boostrap(front-end framework)](https://github.com/twbs/bootstrap)
   - [react(JavaScript library for building user interfaces)](https://github.com/facebook/react)
