@@ -1,4 +1,4 @@
-# 다음 파일로 PR(pull request)해 주세요
+# 다음 방법으로 PR(pull request) 해 주세요
 
 ## 팀장에게 PR한후 팀장이 일괄로 교수에서 PR해 주시기 바랍니다. 
 
